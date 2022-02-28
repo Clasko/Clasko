@@ -60,16 +60,4 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 200
           plugin_reactions_limit_issues: 100
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stackoverflow_user: 18333540
-          plugin_traffic: yes
-          # fuck you, @twitter, and your verification
-          # plugin_tweets: yes
-          # plugin_tweets_attachments: yes
-          # plugin_tweets_limit: 3
-          # plugin_tweets_user: fixator10
           repositories_forks: yes
