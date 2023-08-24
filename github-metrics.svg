@@ -421,14 +421,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="910.3067088586533" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="910.3067088586533" y="0" width="4.60396660790718" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="914.9106754665604" y="0" width="1.5655719653628977" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="916.4762474319233" y="0" width="1.4992967458467876" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="917.9755441777701" y="0" width="0.9890856129958627" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="918.964629790766" y="0" width="0.49310204085627674" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="919.4577318316223" y="0" width="0.3115655700078009" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="919.7692974016301" y="0" width="0.23070259836993814" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="910.3073482813348" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="910.3073482813348" y="0" width="4.6036629050026505" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="914.9110111863374" y="0" width="1.5654686916440321" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="916.4764798779815" y="0" width="1.499197844005127" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="917.9756777219866" y="0" width="0.9890203674806194" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="918.9646980894672" y="0" width="0.49306951313946396" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="919.4577676026067" y="0" width="0.31154501743289725" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="919.7693126200396" y="0" width="0.23068737996042854" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -595,12 +595,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 5 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.4 characters per line of code written</li>
+                        <li>Has approximately 39.5 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -2605,6 +2605,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2738,7 +2743,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2023, 10:05:50 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 10:06:07 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
